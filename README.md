@@ -1,3 +1,3 @@
-# proyectoAseguradora-
+# Proyecto Aseguradora-FrontEnd 
 
-Primera entrega del proyecto.
+Primera entrega del proyecto 50%.
